@@ -1,0 +1,75 @@
+{
+    "Faculty": [
+        {
+            "Title": "Prof. Sachin Sonawane", 
+            "details": "MBA Tech",
+            "id": "c1",
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "number" : "8806759888"
+        },
+        {
+            "Title": "Prof. Varun Deshmukh", 
+            "details": "MBA Tech",
+            "id": "c2",
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "number" : "8806759888"
+        },
+        {
+            "Title": "Prof. Rajesh Verma", 
+            "details": "MBA Tech",
+            "id": "c3",
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "number" : "8806759888"
+        },
+        {
+            "Title": "Dr. Ashok Panigrahi", 
+            "details": "MBA Tech",
+            "id": "c4",
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "number" : "8806759888"
+        },
+        {
+            "Title": "Prof. Bhushan Inje", 
+            "details": "MBA Tech",
+            "id": "c4",
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "number" : "8806759888"
+        },
+        {
+            "Title": "Dr. RadhaKrishna Rambola", 
+            "details": "MBA Tech",
+            "id": "c4",
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "number" : "8806759888"
+        },
+        {
+            "Title": "Prof. Deepti Barhate", 
+            "details": "MBA Tech",
+            "id": "c4",
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "number" : "8806759888"
+        },
+        {
+            "Title": "Dr. Shubham Joshi", 
+            "details": "MBA Tech",
+            "id": "c4",
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "number" : "8806759888"
+        },
+        {
+            "Title": "Prof. Sunil Chaudhari", 
+            "details": "MBA Tech",
+            "id": "c4",
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "number" : "8806759888"
+        },
+        {
+            "Title": "Dr. Kamal Mehta", 
+            "details": "MBA Tech",
+            "id": "c4",
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "number" : "8806759888"
+        }
+    ]
+   
+   }
