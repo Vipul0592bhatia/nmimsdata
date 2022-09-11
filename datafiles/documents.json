@@ -1,0 +1,70 @@
+{
+    "hostel": [
+        {
+            "documenttype": "hostel",
+            "documents": "Bond Notary (20,50,100 each for parents,students each)"
+        },
+        {
+        "documenttype": "hostel",
+            "documents": "Affidavit of Parents/Guardians and Students"
+        },
+        {
+        "documenttype": "hostel",
+            "documents": "Aadhar Card"
+        },
+        {
+        "documenttype": "hostel",
+            "documents": "Vaccination Certificate"
+        },
+        {
+        "documenttype": "hostel",
+            "documents": "Family Insurance"
+        },
+        {
+        "documenttype": "hostel",
+            "documents": "Medical Fitness"
+        },
+        {
+        "documenttype": "hostel",
+            "documents": "3 Students Photographs"
+        },
+        {
+        "documenttype": "hostel",
+            "documents": "2 Parents Photographs"
+        }
+    ],
+    "academics": [
+        {
+        "documenttype": "academics",
+            "documents": "Aadhar Card"
+        },
+        {
+        "documenttype": "academics",
+            "documents": "2 Students Photographs"
+        },
+        {
+        "documenttype": "academics",
+            "documents": "Affidavit of Parents/Guardians and Students"
+        }
+    ],
+    "library": [
+        {
+        "documenttype": "library",
+            "documents": "4 Photographs"
+        },
+        {
+        "documenttype": "library",
+            "documents": "Aadhar Card"
+        }
+    ],
+     "laundary": [
+        {
+        "documenttype": "laundary",
+            "documents": "2 Photographs"
+        },
+        {
+        "documenttype": "laundary",
+            "documents": "Aadhar Card"
+        }
+    ]
+}

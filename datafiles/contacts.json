@@ -1,0 +1,63 @@
+{
+    "Boys Hostel": [
+        {
+            "listtype": "Boys Hostel",
+            "name": "Boys Hostel 1",
+            "number": "8806759888"
+        },
+        {
+            "listtype": "Boys Hostel",
+            "name": "Boys Hostel 2",
+            "number": "9654071455"
+        }
+    ],
+    "Girls Hostel": [
+        {
+        "listtype": "Girls Hostel",
+            "name": "Girls Hostel 1",
+            "number": "+91-9888888888"
+        }
+    ],
+    "Doctors": [
+        {
+        "listtype": "Doctors",
+            "name": "Dr. Gunjan Patil",
+            "number": "+91-9888888888"
+        }
+    ],
+     "Travellers": [
+        {
+        "listtype": "Travellers",
+            "name": "Navkar Travels",
+            "number": "+91-9888888888"
+        }
+    ],
+     "Top Level Managment": [
+        {
+        "listtype": "Top Level Managment",
+            "name": "Chancellor",
+            "number": "+91-9888888888"
+        }
+    ],
+     "Others": [
+        {
+        "listtype": "Others",
+            "name": "The Professional Courier Service",
+            "number": "+91-9888888888"
+        }
+    ],
+     "Gym Trainer": [
+        {
+        "listtype": "Gym Trainer",
+            "name": "Rahul Sesodia ",
+            "number": "+91-9888888888"
+        }
+    ],
+     "Yoga Instructor": [
+        {
+        "listtype": "Instructor",
+            "name": "2 Photographs",
+            "number": "+91-9888888888"
+        }
+    ]
+}
