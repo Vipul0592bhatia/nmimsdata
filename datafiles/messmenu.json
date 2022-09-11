@@ -1,0 +1,48 @@
+{
+    "breakfast": [
+        {
+            "mealtype": "Starter",
+            "meal": "Breafast Starter 1,  etc"
+        },
+        {
+            "mealtype": "Breads",
+            "meal": "Breafast Roti, Paratha, etc"
+        },
+        {
+            "mealtype": "Drinks",
+            "meal": "Breafast Drink1, etc"
+        },
+        {
+            "mealtype": "Sabzi",
+            "meal": "Breafast Sabzi1, etc"
+        }
+    ],
+    "lunch": [
+        {
+            "mealtype": "Breads",
+            "meal": "Lunch Roti, Paratha, Naan, etc"
+        },
+        {
+            "mealtype": "Drinks",
+            "meal": "Lunch Drink1, Drink2 etc"
+        },
+        {
+            "mealtype": "Sabzi",
+            "meal": "Lunch Sabzi1, Sabz2 etc"
+        }
+    ],
+    "dinner": [
+        {
+            "mealtype": "Breads",
+            "meal": "Dinner Roti, Paratha, Naan, etc"
+        },
+        {
+            "mealtype": "Drinks",
+            "meal": "Dinner Drink1, Drink2 etc"
+        },
+        {
+            "mealtype": "Sabzi",
+            "meal": "Dinner Sabzi1, Sabz2 etc"
+        }
+    ]
+}

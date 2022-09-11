@@ -1,0 +1,127 @@
+{
+    "Bhel/Chats": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ],
+     "Chinese Food": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+     ],
+    "Fast Food": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ],
+     "Frankie": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ],
+     "Fresh Juice": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ],
+     "Grilled": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ],
+     "Hot Beverages": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ],
+     "Lunch": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ],
+     "Majedar Lassi": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ],
+     "Milk Shakes": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ],
+     "Pizza": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ],
+     "Starter Chinese": [
+        {
+            "name": "Starter",
+            "cost": "20"
+        },
+        {
+            "name": "Breads",
+            "cost": "30"
+        }
+    ]
+    
+    
+    
+    
+    
+}

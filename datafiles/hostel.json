@@ -1,0 +1,48 @@
+{
+    "New Boys Hostel": [
+        {
+            "header": "Timings",
+            "expandableText": "Breafast Starter 1,  etc"
+        },
+        {
+            "header": "Gents Parlour",
+            "expandableText": "Breafast Roti, Paratha, etc"
+        },
+        {
+            "header": "Laundary Info",
+            "expandableText": "Breafast Drink1, etc"
+        },
+        {
+            "header": "Hostel Kit",
+            "expandableText": "Breafast Sabzi1, etc"
+        }
+    ],
+    "Old Boys Hostel": [
+        {
+            "header": "Timings",
+            "expandableText": "Lunch Roti, Paratha, Naan, etc"
+        },
+        {
+            "header": "Hostel Kit",
+            "expandableText": "Lunch Drink1, Drink2 etc"
+        },
+        {
+            "header": "Laundary",
+            "expandableText": "Lunch Sabzi1, Sabz2 etc"
+        }
+    ],
+    "Girls Hostel": [
+        {
+            "header": "Timings",
+            "expandableText": "Dinner Roti, Paratha, Naan, etc"
+        },
+        {
+            "header": "Hostel Kit",
+            "expandableText": "Dinner Drink1, Drink2 etc"
+        },
+        {
+            "header": "Laundary Info",
+            "expandableText": "Dinner Sabzi1, Sabz2 etc"
+        }
+    ]
+}
