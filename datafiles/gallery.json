@@ -1,42 +1,46 @@
 {
     "Gallery": [
         {
-            "Title": "Prof. Sachin Sonawane", 
+            "Title": "Event 1", 
             "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"  
         },
         {
-            "Title": "Prof. Varun Deshmukh", 
+            "Title": "Event 2", 
             "ImageUrl": "https://github.com/Vipul0592bhatia/nmimsdata/raw/master/lecturerimages/Vipul%20Bhatia%20.jpg"
            
         },
         {
-            "Title": "Prof. Rajesh Verma", 
+            "Title": "Event 3",
             "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"
 
         },
         {
-            "Title": "Dr. Ashok Panigrahi", 
+            "Title": "Event 4",
             "ImageUrl": "https://github.com/Vipul0592bhatia/nmimsdata/raw/master/lecturerimages/Vasu%20Choudhary.JPG"
         },
         {
-            "Title": "Dr. Ashok Panigrahi", 
+            "Title": "Event 5",
             "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"
         },
         {
-            "Title": "Dr. Ashok Panigrahi", 
+            "Title": "Event 6",
             "ImageUrl": "https://github.com/Vipul0592bhatia/nmimsdata/raw/master/lecturerimages/Amit%20Agarwal.jpg"
         },
         {
-            "Title": "Dr. Ashok Panigrahi", 
+            "Title": "Event 7", 
             "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"
         },
         {
-            "Title": "Dr. Ashok Panigrahi", 
+            "Title": "Event 8",
             "ImageUrl": "https://github.com/Vipul0592bhatia/nmimsdata/raw/master/lecturerimages/Pratyush%20Mahajan%20.jpg"
         },
         {
-            "Title": "Dr. Ashok Panigrahi", 
+            "Title": "Event 9",
             "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"
+        },
+        {
+            "Title": "Event 10",
+            "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsJSFvewBphCd0-gaP5jDukdNiNsEaaiOnYA&usqp=CAU"
         }
     ]
    
