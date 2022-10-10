@@ -1,127 +1,411 @@
 {
     "Bhel/Chats": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Chowpati Bhel",
+            "cost": "45"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Chinese Bhel",
+            "cost": "50"
+        },
+        {
+            "name": "Sev Batata Puri",
+            "cost": "45"
+        },
+        {
+            "name": "Dahi Batata Puri",
+            "cost": "50"
+        },
+        {
+            "name": "Papdi Chat",
+            "cost": "55"
+        },
+        {
+            "name": "Pani Puri",
+            "cost": "35"
+        },
+        {
+            "name": "Sukha Bhel",
+            "cost": "35"
         }
     ],
      "Chinese Food": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Veg fried rice",
+            "cost": "75"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Schezwan Fried Rice",
+            "cost": "80"
+        },
+        {
+            "name": "Hong Kong Fried Rice",
+            "cost": "80"
+        },
+        {
+            "name": "Singapuri fried rice",
+            "cost": "80"
+        },
+        {
+            "name": "Paneer Sch fried rice",
+            "cost": "90"
+        },
+        {
+            "name": "Manchurian rice",
+            "cost": "90"
+        },
+        {
+            "name": "Veg Triple Sch fried rice",
+            "cost": "90"
+        },
+        {
+            "name": "Veg Hong Kong Noodles",
+            "cost": "80"
+        },
+        {
+            "name": "Veg Schezwan Noodles",
+            "cost": "85"
+        },
+        {
+            "name": "Veg Singapuri Noodles",
+            "cost": "85"
+        },
+        {
+            "name": "Veg Hong Kong Noodles",
+            "cost": "80"
+        },
+        {
+            "name": "Veg Noodle",
+            "cost": "80"
+        },
+        {
+            "name": "Veg Garlic Noodle",
+            "cost": "90"
+        },
+        {
+            "name": "Veg Ginger Noodles",
+            "cost": "90"
+        },
+        {
+            "name": "Paneer fried rice",
+            "cost": "85"
+        },
+        {
+            "name": "Veg Manchurian Noodles",
+            "cost": "90"
+        },
+        {
+            "name": "Veg Munchow Soup",
+            "cost": "80"
+        },
+        {
+            "name": "Triple Schezwan Noodles",
+            "cost": "90"
+        },
+        {
+            "name": "Dal Tadka jeera rice",
+            "cost": "100"
         }
      ],
     "Fast Food": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Only Bhaji",
+            "cost": "40"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Pav BHaji",
+            "cost": "70"
+        },
+        {
+            "name": "Jain Pav Bhaji",
+            "cost": "75"
+        },
+        {
+            "name": "Extra Pav",
+            "cost": "10"
+        },
+        {
+            "name": "Cheeshe Pav BHaji",
+            "cost": "90"
+        },
+        {
+            "name": "Masala Pav",
+            "cost": "60"
+        },
+        {
+            "name": "Cheese Masala Pav",
+            "cost": "75"
+        },
+        {
+            "name": "Tava Pulav",
+            "cost": "80"
+        },
+        {
+            "name": "Pav Sandwhich",
+            "cost": "50"
+        },
+        {
+            "name": "Aloo Parantha",
+            "cost": "40"
+        },
+        {
+            "name": "Paneer Parantha",
+            "cost": "65"
+        },
+        {
+            "name": "Methi Parantha",
+            "cost": "40"
         }
     ],
-     "Frankie": [
+    "Frankie": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Veg Frankie",
+            "cost": "40"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Schezwan Frankie",
+            "cost": "50"
+        },
+        {
+            "name": "Noodle Frankie",
+            "cost": "50"
+        },
+        {
+            "name": "Paneer Frankie",
+            "cost": "55"
+        },
+        {
+            "name": "Cheese Frankie",
+            "cost": "65"
         }
     ],
      "Fresh Juice": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Mosambi Juice",
+            "cost": "70"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Moramari Juice",
+            "cost": "60"
+        },
+        {
+            "name": "Pineapple Juice",
+            "cost": "60"
+        },
+        {
+            "name": "Cocktail Juice",
+            "cost": "60"
+        },
+        {
+            "name": "Black Grape Juice",
+            "cost": "60"
+        },
+        {
+            "name": "Fresh Lime Water",
+            "cost": "25"
+        },
+        {
+            "name": "Water Melon Juice",
+            "cost": "50"
         }
+       
     ],
      "Grilled": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Veg Sandwich",
+            "cost": "25"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Veg Grilled Sandwich",
+            "cost": "50"
+        },
+        {
+            "name": "Veg Cheese Grilled Sandwich",
+            "cost": "70"
+        },
+        {
+            "name": "Chilli Cheese Toast",
+            "cost": "75"
+        },
+        {
+            "name": "Only Cheese Grilled",
+            "cost": "70"
+        },
+        {
+            "name": "Only Cheese Sandwich",
+            "cost": "60"
+        },
+        {
+            "name": "Toast Sandwich",
+            "cost": "35"
+        },
+        {
+            "name": "Bread Butter",
+            "cost": "15"
+        },
+        {
+            "name": "Toast Butter",
+            "cost": "15"
         }
     ],
      "Hot Beverages": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Tea",
+            "cost": "10"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Special Tea",
+            "cost": "25"
+        },
+        {
+            "name": "Coffee",
+            "cost": "15"
         }
     ],
      "Lunch": [
         {
-            "name": "Starter",
+            "name": "Lunch(Full)",
+            "cost": "60"
+        },
+        {
+            "name": "Lunch(Half)",
+            "cost": "35"
+        },
+        {
+            "name": "Paneer Butter Masala",
+            "cost": "55"
+        },
+        {
+            "name": "Dal fry",
+            "cost": "45"
+        },
+        {
+            "name": "Dal Rice",
+            "cost": "40"
+        },
+        {
+            "name": "Dal Tadka",
+            "cost": "45"
+        },
+        {
+            "name": "Chana Puri",
+            "cost": "70"
+        },
+        {
+            "name": "Only Puri(2 pcs)",
             "cost": "20"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Chopati(1 pcs)",
+            "cost": "10"
+        },
+        {
+            "name": "Puri Bhaji",
+            "cost": "60"
+        },
+        {
+            "name": "Chinese Combo Lunch",
+            "cost": "90"
+        },
+        {
+            "name": "Jeera Rice",
+            "cost": "55"
         }
     ],
-     "Majedar Lassi": [
+    "Mazedar Lassi": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Sweet Lassi",
+            "cost": "50"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Mango Lassi",
+            "cost": "50"
+        },
+        {
+            "name": "Butter Milk",
+            "cost": "25"
         }
     ],
      "Milk Shakes": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Cold Coffee",
+            "cost": "60"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Oreo Shake",
+            "cost": "60"
+        },
+        {
+            "name": "Chiku Shake",
+            "cost": "50"
+        },
+        {
+            "name": "Mango Milk Shake",
+            "cost": "75"
         }
     ],
      "Pizza": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Veg Pizza",
+            "cost": "85"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Jain Pizza",
+            "cost": "85"
+        },
+        {
+            "name": "Only Cheese Pizza",
+            "cost": "85"
+        },
+        {
+            "name": "Mushroom Pizza",
+            "cost": "90"
+        },
+        {
+            "name": "Aditi Special Pizza",
+            "cost": "90"
+        },
+        {
+            "name": "Schezwan Pizza",
+            "cost": "85"
         }
     ],
      "Starter Chinese": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Veg Spring Roll",
+            "cost": "80"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Paneer Chilli Dry",
+            "cost": "90"
+        },
+        {
+            "name": "Veg Manchurian Dry",
+            "cost": "70"
+        },
+        {
+            "name": "Veg Crispy",
+            "cost": "70"
+        },
+        {
+            "name": "Veg Lollipop",
+            "cost": "80"
+        },
+        {
+            "name": "Paneer Dragon Roll",
+            "cost": "95"
+        },
+        {
+            "name": "Paneer Pakoda",
+            "cost": "100"
+        },
+        {
+            "name": "Cheese Pakoda",
+            "cost": "140"
+        },
+        {
+            "name": "Paneer Manchurian Dry",
+            "cost": "100"
         }
-    ]
-    
-    
-    
-    
-    
+    ]   
 }
