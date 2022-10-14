@@ -18,13 +18,6 @@
 			"number": "7448243446"
 		}
 	],
-	"Doctors": [
-		{
-			"listtype": "Doctors",
-			"name": "Dr. Gunjan Patil",
-			"number": "+91-9888888888"
-		}
-	],
 	"Travellers": [
 		{
 			"listtype": "Travellers",
@@ -66,14 +59,29 @@
 		{
 			"listtype": "Top Level Managment",
 			"name": "Chancellor",
-			"number": "amrish.patel@svkm.ac.in"
+			"number": "2226613177"
+		},
+        {
+			"listtype": "Top Level Managment",
+			"name": "Vice Chancellor",
+			"number": "2242355555"
 		}
 	],
 	"Others": [
 		{
 			"listtype": "Others",
 			"name": "The Professional Courier Service",
-			"number": "+91-9888888888"
+			"number": "8275590171"
+		},
+        {
+			"listtype": "Others",
+			"name": "First Flight Courier",
+			"number": "8275590171"
+		},
+        {
+			"listtype": "Others",
+			"name": "DTDC Courier",
+			"number": "7588735813"
 		}
 	],
 	"Gym Trainer": [
