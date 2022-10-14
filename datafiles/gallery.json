@@ -1,46 +1,62 @@
 {
     "Gallery": [
         {
-            "Title": "Event 1", 
-            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"  
+            "Title": "Our gym", 
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/1616138688phpxlD1nt.jpeg"  
         },
         {
-            "Title": "Event 2", 
-            "ImageUrl": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1519627962%2Fvltlogy23k1iid9pjffx.jpg"
+            "Title": "Our college", 
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/2019-07-23.jpg"
            
         },
         {
-            "Title": "Event 3",
-            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"
+            "Title": "Our academic session",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/4.jpg"
 
         },
         {
-            "Title": "Event 4",
-            "ImageUrl": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1519627962%2Fvltlogy23k1iid9pjffx.jpg"
+            "Title": "Our college",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/images.jpeg"
         },
         {
-            "Title": "Event 5",
-            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"
+            "Title": "College logo",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/images.png"
         },
         {
-            "Title": "Event 6",
-            "ImageUrl": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1519627962%2Fvltlogy23k1iid9pjffx.jpg"
+            "Title": "Our college",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/r02.jpg"
         },
         {
-            "Title": "Event 7", 
-            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"
+            "Title": "Our college", 
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/r01.jpg"
         },
         {
-            "Title": "Event 8",
-            "ImageUrl": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1519627962%2Fvltlogy23k1iid9pjffx.jpg"
+            "Title": "Our College",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/r04.jpg"
         },
         {
-            "Title": "Event 9",
-            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"
+            "Title": "New boys Hostel",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/r03.jpg"
         },
         {
-            "Title": "Event 10",
-            "ImageUrl": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1519627962%2Fvltlogy23k1iid9pjffx.jpg"
+            "Title": "Seminar Hall",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/r201.jpg"
+        },
+        {
+            "Title": "Our library",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/r204.jpg"
+        },
+        {
+            "Title": "Our Badminton Court",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/r303.jpg"
+        },
+        {
+            "Title": "Our Auditorium",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/r403.jpg"
+        },
+        {
+            "Title": "Our Hostel",
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/gallery%20images/r401.jpg"
         }
     ]
    
