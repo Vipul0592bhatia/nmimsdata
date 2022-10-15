@@ -4,49 +4,138 @@
             "Title": "MBA Tech", 
             "details": "Dot OC Recruitment in progress",
             "url": "https://github.com/Vipul0592bhatia",
-            "ImageUrl": "https://github.com/vipul-bhatia/nmimsdata/raw/master/academics_photos/images.jpeg"
+            "ImageUrl": "https://github.com/vipul-bhatia/nmimsdata/raw/master/academics_photos/images.jpeg",
+            "Years":[
+                {
+                    "year": "1st Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                },
+                {
+                    "year": "2nd Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                }
+            ]
         },
         {
             "Title": "B Tech", 
             "details": "E-Cell OC Recruitment in progress",
             "url": "https://github.com/Vipul0592bhatia",
-            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/academics_photos/images%20copy%202.jpeg"
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/academics_photos/images%20copy%202.jpeg",
+            "Years":[
+                {
+                    "year": "1st Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                },
+                {
+                    "year": "2nd Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                }
+            ]
+
         },
         {
             "Title": "B. Pharm", 
             "details": "Join the Zoom meeting for 10AM Shirpur 31st meet",
             "url": "https://github.com/Vipul0592bhatia",
-            "ImageUrl": "https://github.com/vipul-bhatia/nmimsdata/raw/master/academics_photos/pharmacy.jpg"
+            "ImageUrl": "https://github.com/vipul-bhatia/nmimsdata/raw/master/academics_photos/pharmacy.jpg",
+            "Years":[
+                {
+                    "year": "1st Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                },
+                {
+                    "year": "2nd Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                }
+            ]
         },
         {
             "Title": "B. Pharm + MBA", 
             "details": "App development club co-lead recruitment in progress ",
             "url": "https://github.com/Vipul0592bhatia",
-            "ImageUrl": "https://github.com/vipul-bhatia/nmimsdata/raw/master/academics_photos/pharmacy.jpg"
+            "ImageUrl": "https://github.com/vipul-bhatia/nmimsdata/raw/master/academics_photos/pharmacy.jpg",
+            "Years":[
+                {
+                    "year": "1st Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                },
+                {
+                    "year": "2nd Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                }
+            ]
         },
         {
             "Title": "M. Pharm + MBA", 
             "details": "Join the Zoom meeting for 10AM Shirpur 31st meet",
             "url": "https://github.com/Vipul0592bhatia",
-            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/academics_photos/images%20copy.jpeg"
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/academics_photos/images%20copy.jpeg",
+            "Years":[
+                {
+                    "year": "1st Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                }
+            ]
         },
         {
             "Title": "D. Pharm", 
             "details": "Join the Zoom meeting for 10AM Shirpur 31st meet",
             "url": "https://github.com/Vipul0592bhatia",
-            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/academics_photos/images%20copy.jpeg"
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/academics_photos/images%20copy.jpeg",
+            "Years":[
+                {
+                    "year": "1st Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                },
+                {
+                    "year": "2nd Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                },
+                {
+                    "year": "2nd Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                },
+                {
+                    "year": "2nd Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                }
+            ]
         },
         {
             "Title": "Agriculture Science", 
             "details": "Join the Zoom meeting for 10AM Shirpur 31st meet",
             "url": "https://github.com/Vipul0592bhatia",
-            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/academics_photos/agriculture-science.jpg"
+            "ImageUrl": "https://raw.githubusercontent.com/vipul-bhatia/nmimsdata/master/academics_photos/agriculture-science.jpg",
+            "Years":[
+                {
+                    "year": "1st Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                },
+                {
+                    "year": "2nd Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                },
+                {
+                    "year": "2nd Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                }
+            ]
         },
         {
             "Title": "Others", 
             "details": "Join the Zoom meeting for 10AM Shirpur 31st meet",
             "url": "https://github.com/Vipul0592bhatia",
-            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6"
+            "ImageUrl": "https://us.123rf.com/450wm/varijanta/varijanta1808/varijanta180800033/106902930-vector-illustration-concept-of-business-workflow-time-management-planning-task-app-teamwork-meeting-.jpg?ver=6",
+            "Years":[
+                {
+                    "year": "1st Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                },
+                {
+                    "year": "2nd Year",
+                    "url": "https://github.com/Vipul0592bhatia"
+                }
+            ]
         }
     ]
    
